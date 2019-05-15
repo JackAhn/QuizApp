@@ -25,6 +25,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:scaleType="center"
             app:srcCompat="@drawable/noimage" />
 
         <ImageView
@@ -32,6 +33,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:scaleType="center"
             android:src="@drawable/noimage" />
 
         <ImageView
@@ -39,6 +41,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:scaleType="center"
             android:src="@drawable/noimage" />
 
         <ImageView
@@ -46,6 +49,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:scaleType="center"
             android:src="@drawable/noimage" />
 
     </LinearLayout>
